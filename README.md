@@ -1,25 +1,48 @@
-Cody O'Brien – SQL Portfolio
+# Cody O'Brien – Data Analytics Portfolio
 
-I am currently pursuing a Master’s in Data Analytics. This repository contains beginner-to-intermediate SQL projects demonstrating data querying, aggregation, and data cleaning techniques.
+Welcome to my SQL portfolio. I am currently pursuing a **Master’s in Data Analytics** and building hands-on experience working with structured datasets using SQL, Excel, and business intelligence tools.
 
-Skills Demonstrated
+This repository contains beginner to intermediate SQL projects focused on data querying, aggregation, and data cleaning.
 
-SELECT statements
+---
 
-WHERE filtering
+## Technical Skills
 
-GROUP BY
+**SQL**
+- SELECT statements
+- JOIN operations
+- GROUP BY and aggregations
+- Filtering with WHERE
+- ORDER BY and LIMIT
 
-Aggregations (SUM, COUNT, AVG)
+**Data Analysis Tools**
+- Excel (Pivot Tables, VLOOKUP)
+- Tableau (basic exposure)
+- Power BI (basic exposure)
 
-ORDER BY
+**Database Tools**
+- PostgreSQL
+- pgAdmin
 
-Basic data validation
+---
 
-Tools Used
+## Projects
 
-PostgreSQL
+### Sales Revenue Analysis
+Analyzed sales transaction data to identify revenue trends and top performing transactions.
 
-SQL
+Skills demonstrated:
+- Aggregation using SUM and AVG
+- GROUP BY
+- Sorting and ranking results
 
-pgAdmin
+---
+
+### Employee Data Cleaning and Turnover Analysis
+Cleaned employee dataset and analyzed attrition patterns across departments.
+
+Skills demonstrated:
+- Handling NULL values
+- Filtering invalid data
+- Conditional logic using CASE statements
+- Department level aggregation
